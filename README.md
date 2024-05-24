@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I'm currently working on making an AWSOME personal website!<br>🎓 Still a student<br>👨‍💻 Trying to level-up my GO skills...
+👀 I'm currently working on making an AWSOME personal website!<br>🎓 Still a student<br>👨‍💻 Trying to level-up my GO skills...<br>🧙‍♂️ I use neovim btw
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # Hey 👋
-
+> &larr Profile pic is `Gilfoyle` from the series `Silicon Valley` haha
 ## About me
 
 - 🎓 Student

@@ -5,7 +5,7 @@
 - 🎓 Student
 - 💾 Backend
 - 👨‍💻 I <3 Go
-- 🧙‍♂️ I use neovim btw
+- 🧙‍♂️ I use Neovim btw
 
 ## Languages
 
